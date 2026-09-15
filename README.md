@@ -95,3 +95,9 @@ Genesis Retopo is licensed GPL-3.0 — standard for Blender add-ons, since Blend
 ## Adding the images
 
 > **TODO (Evan):** from Drive, open `GenesisRetopo_Evidence/SHOWCASE`, use **Download** on the folder — Drive zips it — then unzip into `images/` here. One click beats me pulling ~128 files one at a time through the API.
+
+---
+
+© 2026 Evan Gagnon. All rights reserved.
+
+Published for portfolio review. Not licensed for reuse, redistribution, or derivative works.
