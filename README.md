@@ -30,7 +30,7 @@ Genesis Retopo targets the second half of that problem as hard as the first. Out
 
 Before-and-after wireframes across eight test assets — treasure chest, overhead crane, vintage cabinet, industrial coffee table, old military compressor, spinning wheel, modular wooden pier, and a sungka board.
 
-> **TODO:** images land in `images/` — see *Adding the images* at the bottom.
+All renders live in [`images/`](images/), one folder per asset.
 
 Each asset has source and result renders in wireframe, flat, smooth, and shaded, across hero, front, and detail views. The wireframe pairs are the ones that matter — they show the topology change, which is what the tool actually does. Some results are rough. They're included anyway.
 
@@ -89,12 +89,6 @@ Python · Blender · MCP · autonomous agent orchestration · Instant Meshes (fi
 ## Licensing
 
 Genesis Retopo is licensed GPL-3.0 — standard for Blender add-ons, since Blender itself is GPL. GPL requires source to be provided to people it's distributed to, not to the world, so the repository stays private until release.
-
----
-
-## Adding the images
-
-> **TODO (Evan):** from Drive, open `GenesisRetopo_Evidence/SHOWCASE`, use **Download** on the folder — Drive zips it — then unzip into `images/` here. One click beats me pulling ~128 files one at a time through the API.
 
 ---
 
